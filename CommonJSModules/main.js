@@ -1,2 +1,2 @@
-const sayHello = require("..CommonJSModules/sayHello");
+const sayHello = require("./sayHello");
 sayHello();
